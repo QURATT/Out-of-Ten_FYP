@@ -1,0 +1,19 @@
+Bioderma_labeled.csv 83.21678321678321
+
+erave_labeled.csv 65.16290726817043
+
+neutrogena_labeled.csv 72.07207207207207
+
+labeled_mayb_foundation.csv 85.4190585533869
+
+labeled_mayb_conc.csv 90.75067024128687
+
+labeled_hp_envy.csv 75.72493786246893
+
+labeled_Macbook m1.csv 76.58150851581509
+
+labeled_lenovo x1.csv 80.12048192771084
+
+labeled_lenovo e14.csv 76.75
+
+galaxy7_labeled.csv 72.58687258687259
