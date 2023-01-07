@@ -1,0 +1,99 @@
+tablescraper-selected-row
+The Lenovo ThinkPad E14 is an office laptop, which is not as slim as the devices from the X-series and there are
+not as many features as on the T-series, but the laptops often cost only half the price and they offer all the important
+things you need to work. Lenovo also fixes one major complaint and equips the new ThinkPad E14 G3 with brighter
+displays and there is also an optional screen with 100% sRGB coverage.
+Lenovo did not change the chassis and the black design might appear a bit boring, but it is definitely functional. You
+can notice the low price in terms of materials because you get a combination of plastic and aluminum (lid and
+bottom panel). The stability is still good and you cannot twist or dent the base unit (no creaking sounds). The lid
+itself is also sturdy, but we can quickly provoke picture distortions with concentrated pressure on the back and
+twisting attempts. The hinges are well adjusted and there is only minor bouncing.
+The E14 G3 is the heaviest and largest device in our comparison group; it is noticeably deeper in terms of footprint.
+The USB-C power adapter tips the scale at around 360 grams.
+The port situation is still the same, even though we would appreciate some updates. You get a USB-C port including
+charging functionality as well as DisplayPort and a full-size HDMI output, but a slow USB 2.0 port is not really
+appropriate for a laptop in 2021. More expensive ThinkPad models (like the T-series) definitely have an advantage
+in this regard.
+Lenovo uses a Wi-Fi 6 module from RealTek, but the transfer rates are lower compared to , which was equipped
+with the Intel AX200. It is now a 1x1 module (160 MHz) with a maximum transfer rate of 866 Mbps. The signal
+quality was always good during our review period. The E14 G3 also offers a Gigabit Ethernet port, but there are no
+WWAN modules available.
+As expected, you only get a simple 720p webcam (0.9 MP) with a mechanical shutter (ThinkShutter), which takes
+pretty bad pictures. There is also an IR camera for facial recognition via Windows Hello.
+Similar to previous ThinkPad E laptops, you can remove the whole bottom cover, but the process is not simple. The
+panel is still extremely tight after you have removed all the screws and there are plenty of plastic clips that can break
+easily. Other ThinkPad models are much easier to open.
+The warranty once again shows the entry-level position of the ThinkPad E14, because our test unit only comes with
+a one-year warranty. You can still extend the duration for an additional price. Some models of the E14 are also sold
+with a two-year warranty.
+The ThinkPad E14 G3 still gets the familiar and excellent keyboard with 1.8 mm travel and rich feedback. Despite
+the low price, the E14 has a big advantage over much more expensive ThinkPad X models, which are now equipped
+with shallower and flatter keyboards. You will definitely be happy when you write a lot and the E14 G3 also comes
+with a two-stage background illumination.
+The displays have always been a problem of the inexpensive ThinkPad E14-series. The picture quality was okay for
+an office laptop, but the brightness was hardly competitive at around 250 nits. Lenovo now improved the situation,
+and our test unit is the default IPS screen with an advertised brightness of 300 nits, and our test unit even manages
+330 nits. There is also an optional panel with full sRGB coverage if you want to edit pictures. Some regions also get
+an inexpensive TN panel with a brightness of 250 nits, but we would not recommend this option.
+We analyzed the display with the professional CalMAN software and the grayscale is already very accurate out of
+the box. There is only a minor blue cast, but it is not visible with the naked eye. The colors on the other hand clearly
+show that it is an inexpensive IPS screen with limited color gamut (~60% sRGB) and we can see huge deviations
+compared to the sRGB reference color space.
+We calibrated the panel (X-Rite i1 Pro 2) and the corresponding profile can be downloaded in the box above. The
+grayscale improved a bit, but the colors still show high deviations.
+The additional brightness is definitely appreciated outdoors and you have a little bit more headroom, but you should
+still get a place in the shade for the most comfortable viewing experience.
+Our review unit is equipped with the with 6 cores (12 threads) and a maximum clock of 4 GHZ. More technical
+information about the CPU is available .
+The new ThinkPad E14 beats the rivals in multi-core benchmarks. Tiger Lake based laptops are much slower and
+even the 45W processor in the is slower than the AMD chip. If you only stress one core, however, the Intel chips
+have an advantage. We should mention that Intel CPUs often benefit from high power limits for short peak load,
+which is not the case for the AMD chip in the E14. The performance is not reduced on battery power.
+Talking about the overall system performance, the new ThinkPad E14 G3 leaves a great impression. The results in
+the synthetic benchmarks confirm our subjective impression; the device executes inputs very quickly and there are
+no bottlenecks in the system configuration. You can expand the memory up to 40 GB (8 GB onboard + 1 RAM slot
+up to 32 GB).
+Our standardized latency test (web browsing, YouTube 4K playback, CPU load) shows increased latencies for the
+ThinkPad E14 G3, so there can be problems when you use real-time audio applications.
+The ThinkPad E14 G3 has two SSD slots. Our review unit was equipped with a compact M.2-2242 module from SK
+Hynix (BC711) and a storage capacity of 512 GB (435 GB free after initial set-up). Both drives are attached via
+PCIe-3.0 x4 and the transfer rates are good. Thanks to the empty M.2-2280 slot, it is very easy to upgrade the
+storage capacity if necessary. More SSD benchmarks can be found .
+The Ryzen 5 5500U is equipped with the integrated Radeon RX Vega 7, which is basically the old we already know
+from Ryzen 4000 chips. More technical information about the iGPU is available . This is also the case for the
+performance, which benefits from the dual-channel memory configuration, but it is on the expected level in general.
+Intel's integrated , which is also available in the Intel model of the , for example, is a bit faster in the synthetic
+benchmarks.
+The difference between the Vega 7 and the Iris Xe Graphics G7 (96 EUs) is much smaller in the actual gaming
+benchmarks. Gaming is possible on the E14 G3, but you are usually limited to low or medium settings to get smooth
+gameplay. More gaming benchmarks with the Vega 7 are available .
+The new E14 G3 still uses a single fan and it is a very quiet device overall. Compared to many Intel based laptops,
+there is no high power limit, so the fan usually does not start spinning in short peak load scenarios. The noise level
+is still convenient when you stress the CPU and the iGPU simultaneously and there are no annoying frequencies.
+We did not notice any other electronic sounds like coil whine on our test unit, either.
+The ThinkPad E14 G3 is not uncomfortable warm, despite the quiet fan. We can determine almost 50 °C at the
+bottom during the stress test and you should not put the device on your lap in this scenario, but there are no
+limitations in everyday situations. The fan speed is a bit lower when you play games like Witcher 3, so the chassis is
+even a bit warmer.
+We can once again see that the consumption levels off at 30 Watts during the stress test. There are some
+fluctuations after about 10 minutes but the performance is very stable in general and there is no major drop. The
+processor runs at 6x 2.6-2.8 GHz and the iGPU at ~450 MHz. There is no performance reduction immediately after
+the stress test.
+The two stereo speakers once again carry the same Harman branding and we cannot notice a difference from the
+previous model. The result is surprisingly good for an inexpensive office device and you can easily enjoy some
+videos or some background music. Conferences benefit from the good representation of high tones, which is great
+for clear voices.
+Our consumption measurements show slight improvements, because the idle values are comparable or even
+slightly better compared to the ThinkPad E14 G2 (both Intel as well as AMD), despite the brighter display. AMD
+system behave differently under load since there are no increased power limits for short periods, so the
+consumption is stable. We determine up to 55W during the stress test, so the compact 65W power adapter (USB-C)
+is completely sufficient.
+Lenovo increased the battery capacity to 57 Wh and this obviously has a positive effect on the battery runtime.
+Almost all the rivals including the two models of the ThinkPad E14 G2 (both AMD as well as Intel) are clearly
+beaten. Our Wi-Fi test at an adjusted brightness of 150 nits results in almost 11.5 hours and still more than 8 hours
+at the maximum brightness. It seems that AMD laptops with shorter battery runtime are a thing of the past. The
+video test benefits from the more efficient video decoder with a runtime of almost 14 hours.
+The third generation of the ThinkPad E14 is once again a good office laptop with a great price-performance ratio.
+You do not get the most high-end specs or best materials, but the notebook does not disappoint in the important
+sections and it is once again equipped with an excellent keyboard, which is not the case anymore for many more
+expensive ThinkPads. The keyboard is also a big advantage compared to the rivals.

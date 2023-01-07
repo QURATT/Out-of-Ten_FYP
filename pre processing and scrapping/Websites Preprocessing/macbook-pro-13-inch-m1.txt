@@ -1,0 +1,149 @@
+tablescraper-selected-row
+Apple MacBook Pro 13-inch (M1, 2020): Two-minute review
+Despite being two years old, the Apple MacBook Pro 13-inch is still a great laptop and holds its own against newer
+laptops. The MacBook Pro 13-inch launched in 2020 with the , replacing previous Intel processors that used to power
+Apple computers and ushering in a new era of Apple computer technology.
+The Apple MacBook Pro 13-inch is still superior to the early 2020 model it replaced because of the impressive tech
+upgrades it received. It’s 2.8 times faster than the earlier model, three times as quick as comparable Windows laptops,
+and has a longer battery life than the earlier 2020 model.
+The only potential downside of the MacBook Pro 13-inch is it keeps the original design of the earlier 2020 model, which
+can be good or bad depending on how you think about it. On the one hand, the previous design of the Apple MacBook
+Pro was great - thin, light, and featuring the impressive . Conversely, it would have been interesting to see Apple take up
+a new design for the MacBook Pro 13-inch to match the formerly new M1 chip.
+While the MacBook Pro 13-inch is no longer the most recent professional laptop from Apple, you should still consider
+buying one because of its impressive interior hardware and decent price tag. The 14-inch and models may be the newest
+releases, but they can get expensive and you may not need all of their capabilities depending on what you use your
+laptop for.
+The MacBook Pro 14-inch and 16-inch models are equipped with the more powerful M1 Pro and chips, which are perfect
+for creative professionals or content creators, but may be more powerful than what you need if you’re just in the market
+for a new laptop that doesn’t need the extra processing power.
+With the Apple M1 chip released in 2020 and follow-up, more powerful M1 Pro and M1 Max chips found in Apple
+MacBook Pro 14-inch and 16-inch devices, it’s entirely possible we’ll see a new revealed at the 2022 Apple Worldwide
+Developers Conference. WWDC 2022 will last from Monday, June 6 to Friday, June 10, with people already guessing
+what might be unveiled.
+Given the age of the and how it was the first model to introduce the M1 chip, it makes sense that Apple might release a
+new M2 chip in a new, potentially upgraded version of the MacBook Pro 13-inch. There have also been supply chain
+rumours indicating that a MacBook Pro with an M2 chip will be released within 2022, further cementing the idea we could
+see it at WWDC 2022.
+Apple MacBook Pro 13-inch (M1, 2020): Price and availability
+Prices for the MacBook Pro 13-inch (M1, 2020) start at $1,299 / £1,299 / AU$1,999 for the 256GB SSD/8GB RAM model,
+with the 2TB SSD/16GB RAM model selling for $2,299 / £2,299 / AU$3,499.
+Both models come with the same M1 chip with an 8-core CPU and 8-core GPU, and storage can be configured up to
+2TB.
+For comparison, the launched earlier in 2020 for $1,299 / £1,299 / AU$1,999, so we're not seeing the price cut on the
+MacBook Pro some were hoping to see now that Apple has moved to its own silicon, but we commend Apple for
+releasing this version at the same price as the previous model.
+What’s interesting is that the MacBook Air (M1, 2020) is available with the same M1 chip, and with the same amount of
+RAM and 512GB storage, for $1,249 / £1,249 / AU$1,949. Usually, we wouldn't compare the MacBook Pro with the
+MacBook Air, but considering how close the specs are, and the fact that MacBook Air also features a screen that
+supports the P3 color gamut, previously exclusive to MacBook Pros, there may be some people who think going for the
+Air is a better choice, especially as it comes with double the capacity for less money.
+However, the MacBook Air (M1, 2020) has a fanless design, whereas the MacBook Pro 13-inch (M1, 2020) still has fans.
+This means the MacBook Air is limited in how long it can run intensive tasks for before its performance is throttled in
+order to prevent overheating, due to there being no fans to cool it down.
+If you’re going to have your machine working for hours on end on rendering tasks, for example, then the MacBook Pro
+13-inch (M1, 2020) will be worth the extra outlay.
+The MacBook Pro 13-inch (M1, 2020) is one of the most exciting releases from Apple for a while, thanks to its M1 silicon
+brains, but you probably wouldn’t think that when you first get it out of the box.
+That’s because, with its dimensions of 0.61 x 11.97 x 8.36 inches (1.56 x 30.41 x 21.24cm) and a weight of 3.0 pounds
+(1.4kg) it's pretty much the same as the previous model. It certainly looks and feels identical to previous MacBook Pro
+13-inch models, so anyone hoping for a radical new look to match the radical new hardware within should look instead at
+the and models that launched in 2021.
+We feel that this is a bit of a missed opportunity for Apple. It’s made a big deal of what a revolutionary change its move to
+the M1 chip is, along with – which is a big enough change to warrant naming it ‘macOS 11’, and not ‘macOS 10.17' – so
+we’d have like to see Apple be just as bold with the look of the MacBook Pro 13-inch.
+Apple would probably argue, along with some of its fans, that the MacBook Pro 13-inch’s design is perfect, so there’s no
+point changing it. In a way that’s fair – this is still a good-looking laptop after all, and it remains impressively thin and light;
+but when Apple's rivals, such as Dell and HP, are doing some innovative things with their designs, be it super-slim bezels
+or 2-in-1 designs that let you use the laptop like a tablet, the MacBook Pro 13-inch (M1, 2020)’s look starts to feel a little
+dated.
+For a while now, many people felt that Apple had neglected the Mac and MacBook in favor of the iPhone. After all, could
+you imagine Apple sticking with the same iPhone design since 2016? That’s pretty much what it has done with the
+MacBook Pro 13-inch, barring a few tweaks.
+It’s a bit of a shame, as in other respects – the revolutionary M1 chip and the improvements the company has brought to
+macOS Big Sur – it does feel like Apple is excited about MacBooks again.
+Still, for the purpose of this MacBook review, the design of the MacBook Pro 13-inch (M1, 2020) isn’t bad by any means,
+just rather familiar – and that sense of familiarity is maintained when you open the laptop. The TouchBar returns – if
+you’re not familiar with this, it’s a thin touchscreen that runs along the top of the keyboard, and which shows context-
+sensitive buttons and shortcuts depending on what app or tool you’re currently using.
+When it first appeared four years ago, opinion was divided as how useful it was, but over the years we’ve found
+ourselves warming to it, and as more third-party applications have added TouchBar functionality it’s become more useful.
+It’s good to see it back, and it shows that Apple’s move to the M1 chip and macOS Big Sur hasn’t caused it to ditch this
+feature. The escape key on the left is once again separate, rather than being included in the TouchBar, which was a
+request of many people who use the key a lot (such as developers).
+The keyboard is the same Magic Keyboard as the one introduced with the MacBook Pro 13-inch from earlier this year.
+This was a welcome change at the time, as it replaced the controversial Butterfly switch keyboard, which was often prone
+to reliability problems. It’s good to see it back in the MacBook Pro 13-inch, and it again feels great to type on.
+The screen is also unchanged, with a Retina resolution of 2560 x 1600. This results in a sharp image, but again Apple is
+being outclassed here by rivals such as and , who are putting higher-resolution screens on their .
+Still, the screen of the Apple MacBook Pro 13-inch (M1, 2020) remains bright and vibrant. It also supports the P3 wide
+color gamut, offering excellent color reproduction – this is great for photographers and video editors, who need true-to-life
+colors, but it’s worth pointing out that the MacBook Air (M1, 2020) also now comes with P3 wide color support. This
+makes the more affordable MacBook Air a viable alternative for budget-conscious creatives, and deprives the MacBook
+Pro of a key selling point.
+When it comes to ports, the Apple MacBook Pro 13-inch (M1, 2020) sticks with just the two Thunderbolt 3 ports (both on
+the left-hand side), and an audio jack on the right.
+While we're glad that Apple's move away from Intel hasn't meant losing Thunderbolt 3 (it's an Intel product, after all), this
+lack of ports continues to be a bit of a pain point for professionals. If you want to copy photos from a memory card, or use
+peripherals that rely on the older USB-A ports, then you're going to need to buy a dongle. While Dell includes one in
+many of its USB-C only laptops, Apple doesn't.
+In our time with the MacBook Pro 13-inch (M1, 2020) we were been impressed by its performance. Apple talked a big
+game about the M1 chip, and claims that its CPU is 2.8 times faster at building Xcode projects, and delivers twice as fast
+vector performance in Affinity Photo, plus 5.9 times the 3D title render speeds in Final Cut Pro and 2.9 times the
+performance in Shadow of the Tomb Raider thanks to its GPU.
+For a fair MacBook review, we had to take these claims with a hefty dose of salt, as Apple is a bit vague about some of
+its tests, and when it comes to GPU performance it’s comparing this to a base MacBook Pro 13-inch from the previous
+generation, which uses an older 8th-generation Intel processor with integrated graphics.
+Now that we've had the MacBook Pro 13-inch (M1, 2020) for a while, we can delve deeper into its performance. We ran
+both native M1 apps and older legacy apps designed for Intel Macs, and they performed really well. We opened up
+several demanding apps at once, and swapped between them, and throughout macOS Big Sur didn't miss a beat. They
+opened quickly, and switching between them was almost instantaneous.
+As we said in our MacBook Air (M1, 2020) review, the fact that Apple has switched to an ARM-based chip, but via its
+Rosetta tool allows you to continue to run older apps without any major issues, is commendable. Microsoft has a version
+of Windows 10 that runs on ARM-based laptops like its own , but it's limited to only being able to run apps from the
+Microsoft Store that have been built for ARM architecture – and that means many popular apps just don’t work on
+Windows 10 on ARM.
+The fact that Apple is not only ensuring that pretty much all older Mac apps work on the M1-toting MacBook Pro 13-inch,
+but also of iOS apps as well, really highlights what a poor effort Microsoft has made with Windows 10 on ARM. It needs to
+seriously up its game.
+Unlike the MacBook Air (M1, 2020), which runs silently thanks to its fanless design, the MacBook Pro 13-inch (M1, 2020)
+does still have fans, and they do kick in after a while when you're doing some strenuous work on the device. The laptop
+also gets rather warm towards the back at times. However, the fans don't ever get too distracting, and for day to day use
+you'll never hear them.
+The fact that the MacBook Pro 13-inch (M1, 2020) has fans means it can work harder and longer than the MacBook Air
+(M1, 2020) as well. Due to its fanless design, the MacBook Air has to throttle performance (by lowering the speed of the
+M1 chip) to avoid overheating. This makes the Pro the better choice for professionals that are using it for prolonged
+intensive tasks, such as rendering complex 3D animations.
+The benchmark results were also incredibly impressive. We'd seen suggesting that the M1 chip can beat powerful Intel
+11th gen chips, and it proved to be correct. In the intensive Cinebench R23 benchmark, the MacBook Pro 13-inch (M1,
+2020) scored a whopping 7, 768 points in the multi-core test. That puts it well above the performance of the entry-level
+MacBook Pro 16-inch 2019 with a six-core 9th generation Intel Core i7 processor. The fact that the laptop sells for $2,399
+(£2,399 / AU$3,799), which is around $1,000/£1,000 more, and has a dedicated graphics card, casts the cheaper
+MacBook Pro 13-inch (M1, 2020)'s performance in a positive light.
+The Geekbench 5 results also show what a big improvement the M1 chip is compared to the previous model with a
+2.0GHz Intel Core i5-1038NG7 quad-core processor. Scoring 1,732 in the single-core tests, and 7,590 in the multi-core
+tests, it roundly beats the earlier model, which scored 1,268 and 4,490 in the same tests. The extra four cores of the M1's
+CPU (it's an octa-core chip) are obviously doing some heavy lifting here.
+We also had a play around with Final Cut Pro, Apple's video editing software which has been updated to run on the M1
+chip, and used it to editing an 8K video using multiple sources. The MacBook Pro 13-inch (M1, 2020) kept up admirably,
+allowing us to scrub through the footage while showing a preview of the video at the same time. It was seriously
+impressive. The app did crash once on us, however, when we were adding some titles and fancy effects, but that
+appeared to be a one off.
+On the whole, the video editing performance of the MacBook Pro 13-inch (M1, 2020) was remarkable, with 8K video
+editing a possibility with the M1's GPU.
+Apple MacBook Pro 13-inch (M1, 2020): Battery life
+At the time of its release, Apple has claimed that the MacBook Pro 13-inch (M1, 2020) has the "longest battery life ever in
+a Mac", promising a huge 17 hours of wireless web browsing, and up to 20 hours of video playback – a whopping 10
+hours more than the previous model.
+Again, these are big claims from Apple, and by its very nature you’re going to be using the MacBook Pro 13-inch for
+more intensive tasks than that, but we’ve usually found Apple’s battery claims to be pretty on the mark.
+In our battery life benchmark test, the MacBook Pro 13-inch (M1, 2020) lasted 13 hours and 22 minutes. During this test
+we play a looped 1080p video with the screen at 50% brightness until the battery dies. Now, while that isn't quite as long
+as the 20 hours Apple was claiming, it's still a very impressive score, and a decent improvement over the earlier 2020
+Intel model, which lasted 8 hours and 31 minutes in the same test.
+That around a 5-hour bump - seriously impressive. It's also longer than the 's record of 11 hours and 41 minutes, and
+also beats the latest model, which scored 11 hours.
+The battery life of the Apple MacBook Pro 13-inch (M1, 2020) is so impressive, that we were actually able to use it
+straight out of the box, and didn't plug it in for a couple of days later. This was doing a bit of light use - browsing the web
+and writing emails - so when it comes to much more intensive tasks, that battery life is going to deplete faster. Still, this is
+very impressive.

@@ -1,0 +1,142 @@
+bodytext
+A decade of laptop design culminates in today's review unit, the Lenovo
+ThinkPad X1 Carbon Gen 10. As the name implies, it is the tenth generation
+of the X1 Carbon series, . Compared to that first model, a lot of things have
+changed, but in comparison to the ThinkPad X1 Carbon G9, the ThinkPad X1
+Carbon G10 is not a huge update.
+Lenovo uses the same chassis design for at least two generations. As the
+ThinkPad X1 Carbon G9 was a huge redesign, the X1 Carbon G10 is a
+refresh, which keeps the old design intact. It is a chassis that is mature
+enough for everyday use. A more detailed description of the chassis and its
+quality can be found in our comprehensive review of the .
+There is one relevant design change: Lenovo had to implement a little reverse
+notch to implement the new webcams. The small protrusion at the center of
+the screen makes it easier to open the screen. Models with the new webcams,
+like the reviewed variant, are 0.5 mm thicker than the preceding model.
+There are no changes to the ports: the ThinkPad X1 Carbon 2022 offers
+Thunderbolt 4 as well as legacy ports like USB A and HDMI, despite the
+compact chassis. We do miss an SD card reader with this model.
+Compared with the predecessor, the Intel Wireless AX211 (2x2) has been
+added as a new option, which is also present in our review sample. Different
+from the AX201, the AX211 supports the new standard WiFi 6E. We did not
+use it in our test, but the WiFi module is still faster than the AX201 of the X1
+Carbon G9.
+Normally, there is little to write about when it comes to laptop cameras, but
+with the Lenovo ThinkPad X1 Carbon G10, the webcam is an important part of
+the conversation. Lenovo has upped the resolution from 720p to 1080p, and
+the X1 Carbon G10 also uses an f/2.0 aperture, which should improve low
+light performance.
+The X1 Carbon 2022 offers most of the typical business features, like dTPM
+2.0, a Kensington lock slot, or a fingerprint reader. At the same time smartcard
+reader is not on board, although you will find on regular T/X ThinkPads. New is
+the Computervision feature for the webcam with "Human Presence Detection".
+The system recognizes if the user is stepping away from the device, and
+automatically locks it. This function is optional and can be disabled in the
+Lenovo Commercial Vantage app.
+In the box, there is the 65 W charger with a USB-C plug and no other
+accessories. Praiseworthy: the box and the outer packaging are completely
+made out of paper for the first time. Lenovo dispensed the plastics used here
+before.
+There are no changes to the maintenance design of the predecessor. The
+Carbon fiber bottom cover can be easily removed, only five screws and a few
+clips at the back of the system have to be loosened. The M.2 2280 SSD is
+upgradeable, the RAM is soldered. The same is true for the WiFi module. On
+the other hand, a WWAN card can be slotted in, since our model has the
+antennas and the SIM slot. But only 4G is possible, as 5G requires additional
+antennas.
+In the tested configuration, the Lenovo ThinkPad X1 Carbon Gen 10 has three
+years of warranty, which includes on-site service. In case of a defect, the
+Lenovo laptop will be repaired at the home or workplace of the customers.
+This is only true for the country the device was bought in. Internationally, it is a
+standard depot warranty.
+Lenovo uses almost the same keyboard as with the predecessor X1 Carbon
+G9, but the chiclet keyboard with the backlight and six rows of keys is
+changed in one aspect: the keys of the first row and the keys on the left and
+right edge of the keyboard, like Enter, Ctrl or Shift, are now square instead of
+rounded. The typing feel is not affected, it is purely a visual change. The
+keyboard is still very comfortable, with 1.5 mm travel, a good layout, and a
+very satisfying typing experience. That being said, older ThinkPads with more
+travel are better.
+Among the ThinkPads, the X1 models have a special position, as they are the
+only devices with a glass touchpad - though, this really is not true anymore, as
+the ThinkPad Z series is being released at the moment and it also has a glass
+touchpad. The comparison with the Z series is interesting, as the ThinkPad
+Z13 has a new touchpad design without dedicated TrackPoint buttons. This
+function is fulfilled by the haptic feedback.
+For a refresh like the Lenovo ThinkPad X1 Carbon G10, a possible venue for
+changes is the screen. This is true here as well, as Lenovo uses the
+opportunity to introduce new screen options. But in the case of our review
+device, the 14-inch 16:10 screen we are reviewing was available in the
+predecessor already:
+Ex factory, the colors are slightly too warm, which we measured with CalMan
+and the X-Rite i1 Pro 2 color spectrophotometer. Calibrated with the X-Rite i1
+Profiler, the colors are pretty neutral, with the biggest remaining inaccuracy in
+the red color space. The ICC profile we created is available for free download.
+Due to the matte screen surface, the display is usable outdoors, though the
+missing nits of the panel used here are noticeable.
+ThinkPads are known for having many configurations available. With the
+ThinkPad X1 Carbon G10, Lenovo makes choosing the right model even
+more complicated, as there are now two different classes of CPUs available:
+Intel Alder Lake in its U15 and P28 variants, with vPro Enterprise and vPro
+Essential versions. AMD CPUs are not on the table, and neither are dedicated
+GPUs.
+Lenovo uses the Windows energy settings for power management. For our
+tests, we are using the mode "best performance" and disabled the Lenovo
+Intelligent Cooling mode "Auto" (FN + T). This results in a short-term
+Powerlimit 1 of 55 W and a long-term Powerlimit 2 of 15 W. Our WiFi battery
+test was performed with the mode "Balanced" (PL1: 20 W / PL2: 11 W).
+The is a processor with four-plus eight asymmetrical cores (4 P + 8 E cores)
+of the newest generation Intel Alder Lake. As a CPU of the P class, it has a
+typical TDP of 28 W, though this is just a rough orientation. It is a vPro
+Enterprise variant of the , which is almost identical to the i5-1250P (clock
+rates: P cores: 1.7 up to 4.4 GHz, E cores: 1.2 up to 3.3 GHz). Comparisons
+with other processors are possible with the .
+The system performance is good, there are no hiccups in everyday browser
+usage. Once again though, the benchmarks show that the performance has
+not substantially improved compared to the predecessor .
+For working with audio, the Lenovo ThinkPad X1 Carbon 2022 is not suitable,
+at least not in the reviewed configuration, since it has DPC latency problems.
+This holds true in the Youtube test as well, as there are dropped frames.
+Lenovo would have to release a driver update.
+Lenovo uses the Samsung PM9A1, an NVMe SSD with the PCIe 4.0
+standard. In this case, the SSD has a capacity of 512 GB. In the Lenovo
+ThinkPad X1 Carbon G10, it works extremely fast. Under sustained load, the
+performance is not stable, likely due to heat management issues. This is
+something we observe more frequently with recent tests, so it seems it is not a
+Lenovo-exclusive problem.
+The is the iGPU of all i5 CPUs from the U/P-series for the years 2021 and
+2022. Its performance is dependent on the system memory, as the iGPU does
+not have dedicated memory. In the case of the X1 Carbon G10, it is fast
+LPDDR5 memory in a quad-channel configuration, which is ideal for the Intel
+Xe. Despite this, the iGPU does not perform as well as it could, which is
+probably due to the thermal constraints of the ThinkPad laptop. The Dell
+Latitude 7420 with the same iGPU performs better in the 3DMark tests.
+Gaming after the work is not possible with the ThinkPad X1 Carbon G10,
+apart from older titles. In any case, the quality and resolution have to be
+lowered.
+The Witcher 3 test shows once again that the X1 Carbon 2022 has problems
+with the cooling. The performance of the iGPU is not stable.
+Surprisingly, the Lenovo ThinkPad X1 Carbon G10 is a rather quiet system.
+When idling, the two small fans stay completely quiet. Under load, they reach
+35.47 dB(a) - a moderate level for the maximum fan speed. We think Lenovo
+could have the fans run a little louder to squeeze some more performance out
+of the CPU.
+Despite the quiet fans, the Lenovo laptop X1 Carbon 2022 does not get overly
+hot. In the stress test and Witcher 3 test, the highest temperatures were
+measured at the top: 45 degrees Celsius or 113 F above the keyboard. The
+palmrest stays cool in every case. A bit annoying is the hot keyboard during
+the Witcher 3 test, but since the ThinkPad is not a gaming laptop, this should
+not be an issue in everyday use.
+The Lenovo ThinkPad X1 Carbon G10 has four speakers, two on the bottom
+and two on top, next to the keyboard. They are sufficiently loud and they do
+have some bass, but there is still a lot of room for improvement.
+The power consumption of the Lenovo ThinkPad X1 Carbon G10 is good, the
+competitors from last year consume more energy. The X1 Carbon G9
+consumes less only for the maximum idle consumption.
+For the Lenovo ThinkPad X1 Carbon G10, the platform upgrade to Intel Alder
+Lake is the main focus. In the case of the reviewed unit, it is Alder Lake P28.
+All things considered, we can say: the new generation fails to meet our
+expectations.
+The tested model costs roughly $2,030 when configured in the Lenovo online
+store. The base price for the ThinkPad X1 Carbon Gen 10 in the USA sits at
+$1,560 as of writing this review.
